@@ -18,6 +18,6 @@ This paper aims to apply the twin-delayed deep deterministic policy gradient alg
 
   
 ## 3.Hardcore results
-[Video](https://youtu.be/Y8IWGL4k29Y)https://youtu.be/Y8IWGL4k29Y)  
+[Video](https://youtu.be/Y8IWGL4k29Y)
   
 ![alt text](hard_8000.png)
